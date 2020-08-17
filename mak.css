@@ -91,8 +91,7 @@ padding-left: 10px;
     width: 120px;
 }
 .Bod .left img{
-width: 900px;
-height:500px;
+width: 100%;
 }
 .Bod .left{
 background: url(HOSPi.jpg) no-repeat;
