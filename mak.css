@@ -90,6 +90,10 @@ padding-left: 10px;
     padding: 1.5%;
     width: 120px;
 }
+.Bod .left img{
+width: 98%;
+height:500px;
+}
 .Bod .left{
 background: url(HOSPi.jpg) no-repeat;
 background-size: cover;
